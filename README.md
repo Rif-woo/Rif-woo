@@ -50,15 +50,25 @@ Hi there! I'm Cherif, a passionate Full Stack Developer based in Senegal 🌍. I
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rif-woo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rif-woo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rif-woo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rif-woo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<details>
+<p align="center">
+ <a href="https://github.com/Rif-woo">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rif-woo&hide_border=true&theme=transparent" />
+ </a>
+ <a href="https://github.com/Rif-woo">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rif-woo&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true&card_width=338&theme=transparent" />
+ </a>
+ <a href="https://github.com/Rif-woo">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rif-woo&hide_border=true&card_width=338&theme=transparent" />
+ </a>
+ <a href="https://github.com/Rif-woo">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rif-woo&card_width=338&theme=transparent" />
+ </a>
+ <a href="https://github.com/Rif-woo">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rif-woo&hide_border=true&card_width=338&theme=transparent" />
+ </a>
+</p>
+</details>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rif-woo&limit=5&theme=dark&combine_all_yearly_contributions=true)
