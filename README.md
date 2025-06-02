@@ -50,25 +50,7 @@ Hi there! I'm Cherif, a passionate Full Stack Developer based in Senegal 🌍. I
 
 
 # 📊 GitHub Stats:
-<details>
-<p align="center">
- <a href="https://github.com/Rif-woo">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rif-woo&hide_border=true&theme=transparent" />
- </a>
- <a href="https://github.com/Rif-woo">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rif-woo&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true&card_width=338&theme=transparent" />
- </a>
- <a href="https://github.com/Rif-woo">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rif-woo&hide_border=true&card_width=338&theme=transparent" />
- </a>
- <a href="https://github.com/Rif-woo">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rif-woo&card_width=338&theme=transparent" />
- </a>
- <a href="https://github.com/Rif-woo">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rif-woo&hide_border=true&card_width=338&theme=transparent" />
- </a>
-</p>
-</details>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rif-woo&limit=5&theme=dark&combine_all_yearly_contributions=true)
