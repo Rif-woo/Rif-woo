@@ -3,7 +3,7 @@ Hi there! I'm Cherif, a passionate Full Stack Developer based in Senegal 🌍. I
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/azermax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azermax1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cherif%20Nzale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cherif-Nzale)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/azermax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azermax1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cherif%20Nzale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherif-nzale-999568264/)
 
 
 ### 💻 Programming Languages
